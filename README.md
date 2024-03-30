@@ -1,4 +1,4 @@
-Undergrad at UT Austin studying ECE. Focused on Microarchitecture, information theory, and machine learning.
+Undergrad at UT Austin studying ECE. Focused on Microarchitecture, information theory, and machine learning. Currently working on foundation models and rag.
 
 <!--
 **Hprairie/Hprairie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
