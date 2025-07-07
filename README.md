@@ -4,7 +4,7 @@ Previously did my undergraduate at UT Austin studying ECE. I worked with Prof. S
 
 Summer 2025 Plans:
  - Working through Stanford's CS 336 Class
- - Building Tlib (A library bringin einstin notation/a fuller frontend to triton lang)
+ - Building Tlib (A library bringin einstein notation and fuller frontend to triton lang)
  - Starting some research on recurrent depth language models (Very cool things to come...)
 <!--
 **Hprairie/Hprairie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
